@@ -1,5 +1,8 @@
 _repo: The-land-of-the-Bey-b-Being-impressions-of-Tunis-under-the-French_72265
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72265-h/images/cover.jpg
 creator:
   author:
     agent_name: Reid, T. Wemyss (Thomas Wemyss)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '39115'
     url: http://www.gutenberg.org/2009/agents/39115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72265#The-land-of-the-Bey-b-Being-impressions-of-Tunis-under-the-French
 gutenberg_issued: '2023-11-30'
 identifiers:
   gutenberg: '72265'
